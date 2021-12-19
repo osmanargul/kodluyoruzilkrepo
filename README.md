@@ -13,3 +13,4 @@ code .
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 ### License
 [-MIT](https://choosealicense.com/licenses/mit/)
+![kodluyoruz proje](https://app.patika.dev/cdn/storage/Images/7irW2k48bbDnDBcYk/original/7irW2k48bbDnDBcYk.jpg)
